@@ -1,0 +1,1 @@
+[{"id":"1","username":"Bob","email":"Bob@hotmail.com","password":"5f4dcc3b5aa765d61d8327deb882cf99"},{"id":"2","username":"Crijix","email":"Crijix@outlook.dk","password":"2ac9cb7dc02b3c0083eb70898e549b63"},{"id":"3","username":"Jeff","email":"Jeff@hotmail.com","password":"5f4dcc3b5aa765d61d8327deb882cf99"}]
